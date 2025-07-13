@@ -1,0 +1,76 @@
+{
+  "liguanea": {
+    "lat": 18.019832,
+    "lng": -76.767835,
+    "display_name": "Liguanea"
+  },
+  "halfway_tree": {
+    "lat": 18.012079,
+    "lng": -76.797419,
+    "display_name": "Halfway Tree"
+  },
+  "barbican": {
+    "lat": 18.030726,
+    "lng": -76.7753,
+    "display_name": "Barbican"
+  },
+  "hope_zoo": {
+    "lat": 18.02634,
+    "lng": -76.7451838,
+    "display_name": "Hope Zoo"
+  },
+  "mona_heights": {
+    "lat": 18.014116,
+    "lng": -76.753296,
+    "display_name": "Mona Heights"
+  },
+  "mona": {
+    "lat": 18.008781,
+    "lng": -76.753514,
+    "display_name": "Mona"
+  },
+  "university_hospital": {
+    "lat": 18.009067,
+    "lng": -76.74463,
+    "display_name": "University Of The West Indies Hospital"
+  },
+  "new_kingston": {
+    "lat": 18.005954,
+    "lng": -76.78762,
+    "display_name": "New Kingston"
+  },
+  "cross_roads": {
+    "lat": 17.99384,
+    "lng": -76.788059,
+    "display_name": "Cross Roads"
+  },
+  "papine": {
+    "lat": 18.015629,
+    "lng": -76.742468,
+    "display_name": "Papine"
+  },
+  "spanish_town": {
+    "lat": 17.9991,
+    "lng": -76.9525,
+    "display_name": "Spanish Town"
+  },
+  "port_royal": {
+    "lat": 17.9367,
+    "lng": -76.843,
+    "display_name": "Port Royal"
+  },
+  "constant_spring": {
+    "lat": 18.049,
+    "lng": -76.7935,
+    "display_name": "Constant Spring"
+  },
+  "manor_park": {
+    "lat": 18.052,
+    "lng": -76.791,
+    "display_name": "Manor Park"
+  },
+  "old_harbour":
+   {"lat": 17.938941226820827, 
+   "lng": -77.11298737125755, 
+   "display_name": "Old Harbour"}
+}
