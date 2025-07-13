@@ -1,7 +1,6 @@
 /*
-Names: Shanaldo Carty, Rachjae Gayle, Shanice Burrell, Rajaire Thomas
-ID#: 2108949, 2100400, 2202903, 2207216
-Completion Date: 4/4/2025
+Names: Shanaldo Carty
+Completion Date: 5/7/2025
 */
 
 import React, { useEffect } from "react";
